@@ -20,6 +20,14 @@ https://www.ibm.com/docs/en/i/7.1?topic=reference-classes-c-only
 
 https://www.ibm.com/docs/en/i/7.1?topic=only-inline-member-functions-c
 
+https://www.programiz.com/cpp-programming/friend-function-class
+
+https://www.programiz.com/cpp-programming/inline-function
+
+https://beginnersbook.com/2017/08/cpp-this-pointer/
+
+https://simplesnippets.tech/pointer-to-class-in-cpp/
+
 
 
 
