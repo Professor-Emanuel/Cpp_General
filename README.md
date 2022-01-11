@@ -29,6 +29,8 @@ https://beginnersbook.com/2017/08/cpp-this-pointer/
 https://simplesnippets.tech/pointer-to-class-in-cpp/
 
 
+Inheritance:
+
 
 
 
