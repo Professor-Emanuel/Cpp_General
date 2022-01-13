@@ -30,9 +30,11 @@ https://simplesnippets.tech/pointer-to-class-in-cpp/
 
 
 Inheritance:
+https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm
 
+https://www.geeksforgeeks.org/inheritance-in-c/
 
+https://www.programiz.com/cpp-programming/inheritance
 
-
-
+https://www.cplusplus.com/doc/tutorial/inheritance/
 
